@@ -11,7 +11,7 @@ const ProjectCard = ({ project: { title, imageSrc, description, skills, demo, so
           <p className={styles.description}>{description}</p>
           <div className={styles.links}>
             <a href={demo} className={styles.link}>Demo</a>
-            <a href={source} className={styles.link}>Código</a>
+            <a href={source}  target="_blank" className={styles.link}>Código</a>
           </div>
         </div>
       </div>
