@@ -9,11 +9,11 @@
     },
     {
       "title": "Typhoon",
-      "imageSrc": "projects/project01.png",
+      "imageSrc": "projects/project02.png",
       "description": "Jogo no qual duas equipes escolhem um ponto na grade e recebem pontuações",
       "skills": ["HTML", "CSS", "JavaScript"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "demo": "https://typhoon.onrender.com",
+      "source": "https://github.com/amandaacs/tyhphoon"
     },
     {
       "title": "Portfolio",
@@ -21,6 +21,6 @@
       "description": "Site para exibição de projetos e atualizações profissionais",
       "skills": ["HTML", "CSS", "React"],
       "demo": "/",
-      "source": "https://www.github.com"
+      "source": "https://github.com/amandaacs/portfolio"
     }
   ]
