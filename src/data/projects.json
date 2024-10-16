@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Banco",
+      "imageSrc": "projects/project01.png",
+      "description": "Projeto de banco escolar com sistema de recompensas",
+      "skills": ["React", "Express", "Node", "MongoDB"],
+      "demo": "https://bank-h2kt.onrender.com",
+      "source": "https://github.com/amandaacs/bank"
+    },
+    {
+      "title": "Typhoon",
+      "imageSrc": "projects/project01.png",
+      "description": "Jogo no qual duas equipes escolhem um ponto na grade e recebem pontuações",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Portfolio",
+      "imageSrc": "projects/project03.png",
+      "description": "Site para exibição de projetos e atualizações profissionais",
+      "skills": ["HTML", "CSS", "React"],
+      "demo": "/",
+      "source": "https://www.github.com"
+    }
+  ]
