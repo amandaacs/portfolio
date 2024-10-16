@@ -62,4 +62,7 @@
     .links {
         align-items: center;
     }
+    .text p {
+        text-align: center;
+    }
 }
