@@ -22,5 +22,13 @@
       "skills": ["HTML", "CSS", "React"],
       "demo": "/",
       "source": "https://github.com/amandaacs/portfolio"
+    },
+    {
+      "title": "TempoApp",
+      "imageSrc": "projects/project04.png",
+      "description": "WebApp com atualizações do tempo com busca por cidades",
+      "skills": ["HTML", "CSS", "React", "Node"],
+      "demo": "https://weatherapp-gpfo.onrender.com",
+      "source": "https://github.com/amandaacs/weatherapp"
     }
   ]
