@@ -30,5 +30,13 @@
       "skills": ["HTML", "CSS", "React", "Node"],
       "demo": "https://weatherapp-gpfo.onrender.com",
       "source": "https://github.com/amandaacs/weatherapp"
+    },
+    {
+      "title": "ChatApp",
+      "imageSrc": "projects/project05.png",
+      "description": "WebApp de chat com status online e conversas atualizadas em tempo real",
+      "skills": ["React", "Express", "Node", "MongoDB"],
+      "demo": "https://chatapp-back-f1ei.onrender.com",
+      "source": "https://github.com/amandaacs/chatapp"
     }
   ]
