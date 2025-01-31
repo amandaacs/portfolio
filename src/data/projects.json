@@ -38,5 +38,13 @@
       "skills": ["React", "Express", "Node", "MongoDB"],
       "demo": "https://chatapp-back-f1ei.onrender.com",
       "source": "https://github.com/amandaacs/chatapp"
+    },
+    {
+      "title": "Stair Workout App",
+      "imageSrc": "projects/project06.png",
+      "description": "App móvel para registro de exercícios com escadas",
+      "skills": ["React Native"],
+      "source": "https://github.com/amandaacs/stairapp"
     }
+    
   ]
